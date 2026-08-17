@@ -1,0 +1,68 @@
+{
+  "A: Heuristic Baseline": {
+    "agent_name": "A: Heuristic Baseline",
+    "matches": 20,
+    "wins": 10,
+    "losses": 10,
+    "draws": 0,
+    "win_rate": 0.5,
+    "avg_game_length_turns": 3.85,
+    "avg_prize_differential": -0.2,
+    "avg_damage_dealt": 56.0
+  },
+  "B: Heuristic + Opponent Model": {
+    "agent_name": "B: Heuristic + Opponent Model",
+    "matches": 20,
+    "wins": 10,
+    "losses": 10,
+    "draws": 0,
+    "win_rate": 0.5,
+    "avg_game_length_turns": 3.85,
+    "avg_prize_differential": -0.2,
+    "avg_damage_dealt": 56.0
+  },
+  "C: Heuristic + Memory": {
+    "agent_name": "C: Heuristic + Memory",
+    "matches": 20,
+    "wins": 7,
+    "losses": 13,
+    "draws": 0,
+    "win_rate": 0.35,
+    "avg_game_length_turns": 4.4,
+    "avg_prize_differential": -0.85,
+    "avg_damage_dealt": 47.0
+  },
+  "D: Heuristic + Planning (No Belief)": {
+    "agent_name": "D: Heuristic + Planning (No Belief)",
+    "matches": 20,
+    "wins": 7,
+    "losses": 13,
+    "draws": 0,
+    "win_rate": 0.35,
+    "avg_game_length_turns": 4.55,
+    "avg_prize_differential": -0.85,
+    "avg_damage_dealt": 44.5
+  },
+  "E: Opponent Model + Planning": {
+    "agent_name": "E: Opponent Model + Planning",
+    "matches": 20,
+    "wins": 7,
+    "losses": 13,
+    "draws": 0,
+    "win_rate": 0.35,
+    "avg_game_length_turns": 4.55,
+    "avg_prize_differential": -0.85,
+    "avg_damage_dealt": 44.5
+  },
+  "F: Full Pok\u00e9Strategist (Unified)": {
+    "agent_name": "F: Full Pok\u00e9Strategist (Unified)",
+    "matches": 20,
+    "wins": 7,
+    "losses": 13,
+    "draws": 0,
+    "win_rate": 0.35,
+    "avg_game_length_turns": 4.55,
+    "avg_prize_differential": -0.85,
+    "avg_damage_dealt": 44.5
+  }
+}

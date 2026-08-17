@@ -1,0 +1,6 @@
+{
+  "name": "PokéStrategist",
+  "description": "Memory-Guided Probabilistic Strategic Planning for Pokémon TCG with Card Intelligence, Opponent Belief Modeling, and Monte Carlo Planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
