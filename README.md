@@ -1,4 +1,4 @@
-# 🧠 PokéStrategist
+#  PokéStrategist
 
 ### Probabilistic Planning for Pokémon TCG
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 Pokémon TCG is more than choosing the attack that deals the most damage.
 
